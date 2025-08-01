@@ -4,8 +4,7 @@ A full-stack Library Management System built with the MERN stack (MongoDB, Expre
 
 ## 🚀 Live Demo
 
-- Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-- Backend: [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- Frontend: https://the-book-house.vercel.app/
 
 ---
 
