@@ -18,7 +18,7 @@ import UpdateBook from './components/admin/UpdateBook'
 import AllUsers from './components/admin/AllUsers'
 import Profile from './components/Profile'
 import Notification from './components/user/Notification'
-import VerifyPayment from './components/verifyPayment'
+import VerifyPayment from './components/VerifyPayment'
 
 
 function App() {
